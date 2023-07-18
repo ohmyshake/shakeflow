@@ -1,0 +1,5 @@
+name: shakeflow
+channels:
+  - conda-forge
+dependencies:
+  - numpy
