@@ -1,0 +1,15 @@
+:py:mod:`shakeflow.config`
+==========================
+
+.. py:module:: shakeflow.config
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   main/index.rst
+
+
