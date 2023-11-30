@@ -7,6 +7,6 @@
 [![docs](https://badge.fury.io/py/shakeflow.svg)](https://badge.fury.io/py/shakeflow)
 
 
-Shake events locating and focal mechanism analysis.
+Real-Time framework for oh-my-shake community
 
 ## License
